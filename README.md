@@ -13,7 +13,7 @@
 - [webrtc](https://developer.mozilla.org/ko/docs/Web/API/WebRTC_API)
 - [localtunnel](https://www.npmjs.com/package/localtunnel)
 - [Express](https://expressjs.com/ko)
-- [Intellij IDEA](https://www.jetbrains.com/ko-kr/idea)
+
 
 ## 🥝 프로젝트 포커스
 - 원활한 양방향 통신이 되도록 노력하였습니다.<br>
